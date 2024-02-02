@@ -13,7 +13,7 @@
   </tr>
 </table>
 </div>
-<img align="center" whidt="220" src="https://github.com/mathxl/mathxl/assets/126300226/2f6454ca-e996-4748-8acb-0ceaf96dd048">
+<img align="center" whidt="220" src="https://github.com/mathxl/mathxl/assets/126300226/ce6816d0-744a-46e1-9c0e-6b44734b21a0">
 <hr>
 <img align="right" whidt="110" src="https://github.com/mathxl/mathxl/assets/126300226/ba74080c-46f2-4e9f-b40f-e92f425ea997">
 <hr>
