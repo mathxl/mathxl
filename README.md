@@ -8,10 +8,13 @@
       <img align="left" src="https://github-readme-stats.vercel.app/api?username=mathxl&show_icons=true&theme=radical" alt="Gourmet GitHub stats">
     </td>
     <td>
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathxl&size_weight=0.5&count_weight=0.5" alt="Top Langs">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathxl&size_weight=0.5&count_weight=0.5" alt="Top Langs">
     </td>
   </tr>
 </table>
 </div>
-<img align="height" whidt="300" src="!https://github.com/mathxl/mathxl/assets/126300226/2f6454ca-e996-4748-8acb-0ceaf96dd048
-">
+<img align="center" whidt="220" src="https://github.com/mathxl/mathxl/assets/126300226/2f6454ca-e996-4748-8acb-0ceaf96dd048">
+<hr>
+<img align="right" whidt="110" src="https://github.com/mathxl/mathxl/assets/126300226/ba74080c-46f2-4e9f-b40f-e92f425ea997">
+<hr>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{mathxl}/count.svg" /></p>
