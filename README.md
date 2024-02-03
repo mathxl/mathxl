@@ -1,5 +1,5 @@
 <h1>Olá mundo 🌎</h1>
-<p>My name is Mateus, I am a student of systems analysis and development, I am new to the world of programming, I am always willing to learn more, I hope to become a great programmer one day!</p>
+<p>My name is Matheus, I am a student of systems analysis and development, I am new to the world of programming, I am always willing to learn more, I hope to become a great programmer one day!</p>
 <hr>
 <div align="center">  
 <table >
