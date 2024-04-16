@@ -1,20 +1,23 @@
-<h1>Olá mundo 🌎</h1>
-<p>My name is Matheus, I am a student of systems analysis and development, I am new to the world of programming, I am always willing to learn more, I hope to become a great programmer one day!</p>
-<hr>
-<div align="center">  
-<table >
-  <tr>
-    <td>
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=mathxl&show_icons=true&theme=radical" alt="Gourmet GitHub stats">
-    </td>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathxl&size_weight=0.5&count_weight=0.5" alt="Top Langs">
-    </td>
-  </tr>
-</table>
-</div>
-<img align="center" whidt="220" src="https://github.com/mathxl/mathxl/assets/126300226/ce6816d0-744a-46e1-9c0e-6b44734b21a0">
-<hr>
-<img align="right" whidt="110" src="https://github.com/mathxl/mathxl/assets/126300226/ba74080c-46f2-4e9f-b40f-e92f425ea997">
-<hr>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a05fc7&height=120&section=header"/>
+# olá 
+Hello, I am Gourmet(Ola eu sou Gourmet)🚀
+<img align="right" width="400"  src="">
+<br>
+
+
+
+
+
+<div>
+<br>
+As a Full Stack Developer, I have a strong passion for delving into the world of technology. Since 2020, I have been continuously seeking to expand my knowledge, adapting to the demands of work while maintaining a broad perspective on the business.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{mathxl}/count.svg" /></p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a05fc7&height=120&section=footer"/>
