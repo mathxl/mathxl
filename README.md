@@ -1,6 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a05fc7&height=120&section=header"/>
-# olá 
-Hello, I am Gourmet(Ola eu sou Gourmet)🚀
+
+ #  olá 
+ 
+Hello, I am 
 <img align="right" width="400"  src="">
 <br>
 
