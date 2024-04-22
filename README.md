@@ -1,8 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a05fc7&height=120&section=header"/>
 
- #  olá 
+ # Hello world🌎
  
-Hello, I am 
 <img align="right" width="400"  src="https://github.com/mathxl/mathxl/assets/126300226/e050a94d-7b09-4447-9561-008b4f3356cf">
 <br>
 
@@ -12,7 +11,7 @@ Hello, I am
 
 <div>
 <br>
-As a Full Stack Developer, I have a strong passion for delving into the world of technology. Since 2020, I have been continuously seeking to expand my knowledge, adapting to the demands of work while maintaining a broad perspective on the business.
+My name is Matheus, I'm 20 years old and I'm studying systems analysis and development, my goal is to one day be able to make a living from programming and carry out great work as a programmer, I'm always looking for more learning, always looking for evolution.
 <br>
 <br>
 <br>
